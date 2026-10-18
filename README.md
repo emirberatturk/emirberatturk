@@ -21,7 +21,8 @@ Gerçek bir web sitesinin 43.000+ log kaydıyla çalışan, sıfırdan geliştir
 - **51 gün süren yavaş bir bot taramasını** ("low and slow") kısa pencereli kuralların kaçırdığı yerde yeni bir kuralla yakaladım
 - **Üç tespit katmanı:** 7 davranış kuralı + 10 SigmaHQ imza kuralı + öğrenilmiş profille anomali tespiti. Etiketli CSIC 2010 veri setinde imzaların %4,2'lik yakalama oranı anomaliyle %37'ye çıktı (%99,96 doğruluk)
 - **SIEM'in kendi güvenliği ve KVKK:** herkese zorunlu iki adımlı doğrulama (TOTP), roller, kişisel veri maskeleme, 90 gün saklama süresi (silinen kayıt dosyada iz bırakmaz)
-- SOC arayüzü, olay raporu ve haftalık rapor · MITRE ATT&CK · 268 otomatik test
+- SOC arayüzü, olay raporu ve haftalık rapor · MITRE ATT&CK · 279 otomatik test
+- Gerçek log olmadan, tek komutla kurulan **sahte demo verisiyle** denenebilir
 
 <table>
   <tr>
