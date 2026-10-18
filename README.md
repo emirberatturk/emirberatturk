@@ -38,9 +38,9 @@ Bir sağlık kliniği için 3 dilli, mobil uyumlu web sitesi ve yönetim paneli 
 - **Gizlilik:** ziyaretçi çerez onayı vermeden harita gibi dış içerikler yüklenmez
 - **Performans:** mobilde ağır 3D tedavi önizlemesi yalnızca ziyaretçi dokununca yüklenir
 
-### 🎬 Python ile video otomasyonu
+### 🎬 [video-kurgu](https://github.com/emirberatturk/video-kurgu): Python ile video otomasyonu
 
-Türkçe konuşmalı ham çekimleri Instagram Reels için kurgulayan yerel bir araç: konuşmayı yazıya çevirir (faster-whisper), duraksamaları ve tekrarları keser, kelime kelime altyazı ekler, yüze göre dikey kadraj yapar; tanıtım videolarını da doğrudan koddan üretir. Her şey bilgisayarda çalışır, videolar buluta gönderilmez. *(Kodu temizlenip yayınlanacak.)*
+Türkçe konuşmalı ham çekimleri Instagram Reels için kurgulayan yerel bir araç: konuşmayı yazıya çevirir (faster-whisper), duraksamaları ve tekrarları keser, kelime kelime altyazı ekler, yüze göre dikey kadraj yapar; tanıtım videolarını da doğrudan koddan, 60 fps çizer (Mini-SIEM tanıtım videosu bununla yapıldı). Her şey bilgisayarda çalışır, videolar buluta gönderilmez. MIT lisanslı, açık kaynak.
 
 ## 🧰 Araçlar
 
